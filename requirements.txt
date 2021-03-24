@@ -40,7 +40,7 @@ pytz==2019.3
 pyu2f==0.1.4
 requests==2.22.0
 retry-decorator==1.1.1
-rsa==4.0
+rsa==4.1
 selenium==3.141.0
 six==1.14.0
 SocksiPy-branch==1.1
