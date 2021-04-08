@@ -8,7 +8,7 @@ chardet==3.0.4
 chromedriver==2.24.1
 crcmod==1.7
 cryptography==2.9
-Django==3.0.4
+Django==3.0.14
 django-storages==1.9.1
 fasteners==0.15
 gcs-oauth2-boto-plugin==2.5
